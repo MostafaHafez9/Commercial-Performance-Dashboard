@@ -1,0 +1,6 @@
+product_id,product_name,product_type,monthly_price
+1,Prepaid Voice,Prepaid,80
+2,Postpaid Voice,Postpaid,200
+3,Mobile Internet,Data,120
+4,Home Internet,Data,300
+5,Business Line,Business,500
